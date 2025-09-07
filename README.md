@@ -45,18 +45,23 @@ Perfect for showcasing skills in:
 - Aligns closely with actual values from 2017–2019 (validation period)
 - Projects 36 months ahead with interpretable confidence bands
 
-![Full Timeline Forecast (1940–2025)](images/forecast_full.png)  
-*Historical data (blue) vs SARIMA forecast (blue)*
+![Full Timeline Distribution of  Energy Production (1940–2025)](images/fig1.png)  
+*Historical data  from 2040 to 2025*
 
 ![Seasonal Decomposition](images/decomposition.png)  
 *Multiplicative decomposition: Observed, Trend, Seasonal, and Residual components.*
 
-
 ![Zoomed Forecast (2010–2025)](images/forecast_zoom.png)  
+*Close-up view showing model fit and future projections.*
+
+![Zoomed Forecast (2010–2025)](images/forecast_zoom1.png)  
 *Close-up view showing model fit and future projections.*
 
 ![SARIMA Fit (2010–2025)](images/sarima_fit_2010_2025.png)  
 *SARIMA model fitted to data from 2010 onward — excellent tracking of seasonal cycles.*
+
+![Full Timeline Forecast (1940–2025)](images/forecast_full.png)  
+*Historical data (blue) vs SARIMA forecast (blue)*
 
 ![Forecast 2017–2025](images/forecast_2017_2025.png)  
 *forecast (2017–2025) with prediction uncertainty.*
