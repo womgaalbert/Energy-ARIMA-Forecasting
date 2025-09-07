@@ -54,7 +54,7 @@ Perfect for showcasing skills in:
 *Showing 2017 -2020  model fit projections.*
 
 ![Zoomed Forecast (2010–2025)](images/forecast_zoom1.png)  
-*Close-up view showing model fit and future projections.*
+*Close-up view showing model fit and future projections for the period  2017 -2020 .*
 
 ![SARIMA Fit (2010–2025)](images/sarima_fit_2010_2025.png)  
 *SARIMA model fitted to data from 2010 onward — excellent tracking of seasonal cycles.*
