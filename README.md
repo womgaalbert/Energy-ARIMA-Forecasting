@@ -39,21 +39,30 @@ Perfect for showcasing skills in:
 ### 🏆 Best Model Selected
 `SARIMA(1,1,1)(2,1,2)[12]` with **AIC: 4228.12**
 
-### 🔍 Forecast Accuracy
+## 📈 Forecast Accuracy
+
 - Accurately captures **long-term structural growth** and **annual seasonality**
 - Aligns closely with actual values from 2017–2019 (validation period)
 - Projects 36 months ahead with interpretable confidence bands
 
 ![Full Timeline Forecast (1940–2025)](images/forecast_full.png)  
-*Historical data (blue) vs SARIMA forecast (green) with confidence intervals.*
-
-![Zoomed Forecast (2010–2025)](images/forecast_zoom.png)  
-*Close-up view showing model fit and future projections.*
+*Historical data (blue) vs SARIMA forecast (blue)*
 
 ![Seasonal Decomposition](images/decomposition.png)  
 *Multiplicative decomposition: Observed, Trend, Seasonal, and Residual components.*
 
----
+
+![Zoomed Forecast (2010–2025)](images/forecast_zoom.png)  
+*Close-up view showing model fit and future projections.*
+
+![SARIMA Fit (2010–2025)](images/sarima_fit_2010_2025.png)  
+*SARIMA model fitted to data from 2010 onward — excellent tracking of seasonal cycles.*
+
+![Forecast 2017–2025](images/forecast_2017_2025.png)  
+*forecast (2017–2025) with prediction uncertainty.*
+
+![SARIMA Forecast (2025–2028)](images/forecast_2025_2028.png)  
+ *forecast (2025–2028) showing predicted energy production with 95% confidence intervals.*
 
 ## 🚀 Quickstart
 
