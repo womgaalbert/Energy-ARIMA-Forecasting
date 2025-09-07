@@ -15,7 +15,6 @@ This project applies **time series decomposition** and **SARIMA modeling** to fo
 
 Using historical data from the Federal Reserve Economic Data (FRED), we:
 - Decompose the series into trend, seasonal, and residual components
-- Test for stationarity using the Augmented Dickey-Fuller (ADF) test
 - Automatically select optimal SARIMA parameters using `pmdarima`
 - Generate a 36-month forecast (2022–2025) with 95% confidence intervals
 
@@ -51,8 +50,8 @@ Perfect for showcasing skills in:
 ![Seasonal Decomposition](images/decomposition.png)  
 *Multiplicative decomposition: Observed, Trend, Seasonal, and Residual components.*
 
-![Zoomed Forecast (2010–2025)](images/forecast_zoom.png)  
-*Close-up view showing model fit and future projections.*
+![Zoomed Forecast (2017–2020)](images/forecast_zoom.png)  
+*Showing 2017 -2020  model fit projections.*
 
 ![Zoomed Forecast (2010–2025)](images/forecast_zoom1.png)  
 *Close-up view showing model fit and future projections.*
