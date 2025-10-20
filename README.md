@@ -1,8 +1,7 @@
 # ⚡ Energy Production Forecasting with SARIMA
 
 ![Python](https://img.shields.io/badge/python-3.12-blue)
-#![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
-![License: MIT](https://github.com/womgaalbert/Energy-ARIMA-Forecasting/blob/main/LICENSE)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Python-orange)
 
 > Forecasting U.S. Industrial Energy Production (Electric & Gas Utilities) using Seasonal ARIMA (SARIMA) models — 1939 to 2025  
